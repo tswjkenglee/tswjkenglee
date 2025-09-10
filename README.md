@@ -1,5 +1,6 @@
-- 🌱 Currently a student specializing in Networking and Cybersecurity
-- 🤔 I’m interested into getting into Cloud Computing
+- 🌱 Currently a student specializing in Networking & Cybersecurity
+- 🤔 I’m interested about Cloud Computing and how to apply it to Networking & Cybersecurity
+- 💬 Ask me about Computer Hardware! I buy used/refurbished parts to build computers and sell them
 <!--
 **tswjkenglee/tswjkenglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
