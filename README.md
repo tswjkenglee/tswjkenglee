@@ -1,5 +1,5 @@
-## Hi there 👋
-
+- 🌱 Currently a student specializing in Networking and Cybersecurity
+- 🤔 I’m interested into getting into Cloud Computing
 <!--
 **tswjkenglee/tswjkenglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
